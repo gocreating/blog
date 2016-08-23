@@ -69,7 +69,7 @@ theme: clean-blog
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/gocreating/gocreating.github.io.git
+  repo: https://github.com/gocreating/blog.git
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
