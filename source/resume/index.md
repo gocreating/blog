@@ -125,6 +125,24 @@ date: 2016-08-23 22:09:43
 
 - 其餘待補上
 
+# 開源專案貢獻
+
+- [strman](https://github.com/gocreating/strman)
+  - 2th of total 9+ contributors
+  - 說明
+    strman是一個專門處理字串的JS Library，當時在Facebook動態牆剛好看到有人分享此專案，也剛好瞄到一個小Bug，就順手發一個PR處理掉了。
+
+- [atom-firepad](https://github.com/gocreating/atom-firepad)
+  - 7th of total 7+ contributors
+  - [開發日誌](https://fossapc.hackpad.com/A0-Atom-firepad-j2yTwlwy9fi)
+  - 說明
+    此專案是Atom編輯器的Plugin，由於修了jserv開的自由軟體課程，被迫找一個專案貢獻，就和另外兩位同學一起投入許多心力讓這個Plugin更便利。
+
+- [react-engine](https://github.com/gocreating/react-engine)
+  - 5th of total 27+ contributors
+  - 說明
+    貢獻此專案時，react正剛要起飛，我也積極在尋找與express最相容的react package，`react-engine`是我當時的首選，但是在Windows系統下會有Bug，礙於此Bug造成我自己的專案停滯，於是自己修了Bug，發出這輩子第一次Pull Request。
+
 # 附錄
 
 [^meichu-01]: ![](./index/2014-meichu/01.jpg)
