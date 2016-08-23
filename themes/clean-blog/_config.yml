@@ -1,8 +1,8 @@
 # Header
 menu:
   部落格: /
-  文章: /archives
-  履歷: /resume
+  文章: /blog/archives
+  履歷: /blog/resume
   Github:
     url: https://github.com/gocreating
     icon: github
