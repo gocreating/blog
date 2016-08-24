@@ -30,10 +30,10 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-83010069-2
 
 # Addthis ID
-addthis: UA-83010069-2
+addthis:
 
 # Social Accounts
 twitter_url:
